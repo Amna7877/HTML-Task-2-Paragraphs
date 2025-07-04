@@ -28,17 +28,14 @@ Hi! I'm Amna — a passionate web development student at **Saylani Mass IT Train
 Through these tasks, I’m building real HTML structure and writing clean, semantic code.
 ---
 
-## 🌐 Live Site
+## 🌐 Live Site  
+👉 [View on Netlify](https://html-task-2-10-paragraphs.netlify.app)
 
-👉 [View on Netlify](https://html-task-3-personal-blog.netlify.app)
-
----
-
-## 📁 GitHub Repository
-
-👉 [View Repository](https://github.com/Amna7877/HTML-Task-3-Personal-Blog)
+## 📁 GitHub Repository  
+👉 [View Repository](https://github.com/Amna7877/HTML-Task-2-Paragraphs)
 
 ---
+
 
 
 
