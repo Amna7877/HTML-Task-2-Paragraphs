@@ -5,14 +5,6 @@ The objective is to practice paragraph tags (`<p>`) and structure a basic self-i
 
 ---
 
-## 📁 File Included
-
-| File Name           | Description                        |
-|---------------------|------------------------------------|
-| HTML Task-2.html    | My personal intro using 10 paragraphs |
-
----
-
 ## 🧰 Tech Stack
 
 - HTML5  
